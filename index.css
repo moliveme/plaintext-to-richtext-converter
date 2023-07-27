@@ -11,5 +11,5 @@
     margin: 0 auto; /* Center the div horizontally */
     padding: 10px;
     border: 1px solid #ccc;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
