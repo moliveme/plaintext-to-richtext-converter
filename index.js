@@ -7,7 +7,7 @@ function convertToRichText() {
 
     // Process the plain text to add rich text formatting
     // For example, you can add <strong> tags to make text bold
-    const richText = `<strong>${plainText}</strong>`;
+    const richText = `${plainText}`;
 
     // Set the processed rich text as the content of the output div
     outputDiv.innerHTML = richText;
