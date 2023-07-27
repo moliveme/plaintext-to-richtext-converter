@@ -1,0 +1,14 @@
+#inputTextarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+  #outputDiv {
+    width: 100%;
+    max-width: 1920px; /* Set the maximum width to 1920px */
+    margin: 0 auto; /* Center the div horizontally */
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
